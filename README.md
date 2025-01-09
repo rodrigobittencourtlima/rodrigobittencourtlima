@@ -62,10 +62,3 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/logstash/logstash-original-wordmark.svg" title="Logstash" alt="Logstash" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/kibana/kibana-original-wordmark.svg" title="Kibana" alt="Kibana" width="40" height="40"/>&nbsp;
 </p>
-
----
-
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rodrigobittencourtlima&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigobittencourtlima&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
