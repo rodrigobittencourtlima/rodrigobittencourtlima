@@ -1,6 +1,6 @@
 ### :man_technologist: &nbsp;About Me :
 
-- I am a Senior Software Engineer currently focused on Back End Development.
+- I am a Senior Software Engineer currently focused on Back End Development and DevOps.
 - In my profile you will find repositories with example implementations of the main Java technologies.
 
 <a href="https://www.linkedin.com/in/rodrigo-bittencourt-de-lima/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
